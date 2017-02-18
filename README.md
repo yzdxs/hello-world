@@ -1,3 +1,4 @@
 # hello-world
 GitHub is a very good place.
-for studying SM-2
+not only for learning SM-2
+but also for more other interesting things.
